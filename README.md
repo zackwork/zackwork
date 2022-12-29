@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zackwork AKA Zack Snyder
+- 👋 Hi, I’m Zack Snyder AKA @zackwork
 - 👀 I’m interested in PHP, Python, Reactjs and ML
 - 🌱 I Just Know Some PHP and still learning...
 - 💞️ I’m looking to collaborate on any project that interests :)
